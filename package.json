@@ -1,0 +1,23 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliapolyakova/ajs_esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliapolyakova/ajs_esm/issues"
+  },
+  "homepage": "https://github.com/juliapolyakova/ajs_esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
